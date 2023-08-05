@@ -13,7 +13,7 @@
  div.paragraph { line-height: 1.5; padding: .5em 0; }
  p { line-height: 1.5; padding: .5em 0; }
  div#content {min-height:400px;}
- #header-wrap { background:url(theme/header-bg-green.jpg?1691244384) repeat bottom left; box-shadow:inset 0 -1px 3px rgba(0,0,0,0.3); }
+ #header-wrap { background:url(theme/header-bg-green.jpg?1691244384) #1d2419 repeat bottom left; box-shadow:inset 0 -1px 3px rgba(0,0,0,0.3); }
  .wsite-custom-background #header-wrap { background: none; }
  #header { border-collapse: collapse; border-spacing: 0; width:100%; }
  #header td { vertical-align: middle; text-align: left; height:48px; }
@@ -28,7 +28,7 @@
  .wsite-social-facebook:hover { background-position: 0px -33px; }
  .wsite-social-twitter { background: url(theme/social-icons-green.png?1691244384) no-repeat -33px 0px; }
  .wsite-social-twitter:hover { background-position: -33px -33px; }
- .wsite-social-mail { background: url(theme/social-icons-green.png?1691244384) no-repeat -99px 0px; }
+ .wsite-social-mail { background: url(theme/social-icons-green.png?1691244384) #568E00 no-repeat -99px 0px; }
  .wsite-social-mail:hover { background-position: -99px -33px; }
  .wsite-social-pinterest { background: url(theme/social-icons-green.png?1691244384) no-repeat -231px 0px; }
  .wsite-social-pinterest:hover { background-position: -231px -33px; }
